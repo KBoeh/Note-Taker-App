@@ -1,16 +1,16 @@
 body {
-    background-color: aqua;
+    background-color: #9dce9f;
     color: black;
 }
 
-div.front-page {
+.front-page {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 32px;
     justify-content: center;
     text-align: center;
 }
 
-div.second-page {
+.second-page {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 32px;
 }
@@ -25,7 +25,7 @@ height: 30vh;
 }
 
 .submit {
-    background-color: #4CAF50;
+    background-color: #910c0c;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -36,7 +36,7 @@ height: 30vh;
 }
 
 a {
-    color: brown;
+    color: rgb(211, 15, 15);
 }
 
 .notes-link {
