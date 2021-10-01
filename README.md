@@ -1,3 +1,4 @@
-**Instruction**
-
-Complete the functions that will make the notes App to work complete.
+**JavaScript Note-Taker Application**
+Reskill Americans Project <br>
+Javascript Practice <br>
+https://kboeh.github.io/note-taker-app/
